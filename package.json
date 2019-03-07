@@ -1,0 +1,19 @@
+{
+  "name": "xrp-ripple-server",
+  "version": "1.0.0",
+  "description": "连接区块链瑞波币生成密钥及打包等常规应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmmmmq/XRP-ripple-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmmmmq/XRP-ripple-server/issues"
+  },
+  "homepage": "https://github.com/emmmmmq/XRP-ripple-server#readme"
+}
